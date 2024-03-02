@@ -1,2 +1,2 @@
 # Kalupay
-A Web3 Wallet built by Filipinos for Filipinos
+A Super DApp designed for your journey on Solana.

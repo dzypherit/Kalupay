@@ -52,10 +52,10 @@ const Home: NextPage = () => {
                fontSize='6xl'
                fontWeight='extrabold'
             >
-              The Simplest Way to Pay Your Friends
+              A Super DApp designed for your journey on Solana.
             </Heading>
             <Text fontSize={{ base: "md", md: "xl" }}>
-            A Web3 Wallet built by Filipinos for Filipinos
+            Onboarding more people to Solana
             </Text>
             <Center>
             <Flex alignItems="center" mt={4}>
